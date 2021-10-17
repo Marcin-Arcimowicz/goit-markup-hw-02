@@ -173,7 +173,8 @@ color: #757575;
 /*==== FOOTER ====*/
 
 .footer {
-    background: #2F303A;    
+    background: #2F303A; 
+    width: 1600px;   
 }   
 
 .address,
